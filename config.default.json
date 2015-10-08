@@ -1,0 +1,11 @@
+{
+    "__comment": "This is the default configuration file. If you want custom configuration, copy this file to 'config.json' and adapt.",
+    "server": {
+        "httpPort": 1564,
+        "baseUrl": "http://localhost"
+    },
+    "ethereum": {
+        "jsonRpcUrl": "http://downtonabbey:8101",
+        "mainContractAddress": ""
+    }
+}
